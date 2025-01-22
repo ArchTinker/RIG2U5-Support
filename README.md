@@ -1,7 +1,7 @@
 # RIG2U5 - Rigging & Exporting Characters for games, made easier
 
 
-<img src="/RIG2U5-logo.webp" width="200">
+<img src="/RIG2U5-logo.webp" width="500">
 
 ## RIG2U5 Support
 
