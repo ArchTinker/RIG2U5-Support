@@ -1,6 +1,6 @@
 # RIG2U5 - Rigging & Exporting Characters for games, made easier
 
-
+![RIG2U5 Logo](/RIG2U5-logo.webp)
 
 - Seamless Rigify-to-Unreal Export: Fully compatible F﻿BX with Unreal IK rig
 - Effortless Animation Workflow: Export and import facial/body animations with Unreal’s default settings.
