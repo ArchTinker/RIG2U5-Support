@@ -7,6 +7,11 @@
 - Use this Github Repository to Report Issues / Bugs / Errors
 - The Link to Report Issues is Here [Github Issues](https://github.com/ArchTinker/RIG2U5-Support/issues)
 
+## Resources
+
+- [DOCUMENTATION](https://docs.tinkerboi.com/v1.0/rig2u5)
+
+
 # Key Points
 
 - Seamless Rigify-to-Unreal Export: Fully compatible F﻿BX with Unreal IK rig
