@@ -4,7 +4,7 @@
 
 ## RIG2U5 Support
 
-- Use this Github Repository to Report Issues / Bugs / Errors
+- Use this Github Repository to Report [Github Issues](Issues / Bugs / Errors)
 - The Link to Report Issues is Here [Github Issues](https://github.com/ArchTinker/RIG2U5-Support/issues)
 
 ## Resources
