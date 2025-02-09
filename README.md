@@ -11,7 +11,7 @@
 ## Resources
 
 - [PRODUCT PAGE](https://blendermarket.com/products/rig2u5)
-- [DOCUMENTATION](https://docs.tinkerboi.com/v1.0/rig2u5)
+- [DOCUMENTATION](https://docs.tinkerboi.com/rig2u5/v1.0)
 
 
 # Key Points
